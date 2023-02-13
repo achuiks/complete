@@ -1,0 +1,48 @@
+
+
+body{
+    background-color: aqua;
+}
+.achui:hover{
+    background-color: aliceblue;
+    border:3px;
+    cursor:pointer;
+}
+.achui{
+    background-color: antiquewhite;
+    font-size: larger;
+    color:crimson;
+    border-color:rgb(120, 42, 165);
+    border-style: groove;
+    margin-left: 20px;
+    padding: 20px;
+    border-width: 5px;
+
+}
+p{background-color: aquamarine;
+    border-style:inherit ;
+}
+ul:hover{
+    background-color: blue;
+
+}
+ul{
+    background-color:aqua;
+    border-width: 5px;
+    border-style: groove;
+    border-color:hotpink;
+    margin-top: 2px;
+}
+ol:hover{
+    background-color:rgb(0, 255, 55);
+}
+ol{
+    margin-top:3px;
+    background-color: beige;
+    border-style: inset;
+    border-color: gold;
+
+}
+.img{
+    border-color: chocolate;
+}

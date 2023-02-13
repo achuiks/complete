@@ -1,0 +1,31 @@
+h3{
+    text-align: center;
+
+}
+.container{
+    width: 900px;
+    height: 800px;
+    float: left;
+    border:1px;
+    margin-right: 20px;
+
+}
+
+img{
+border-radius: 50%;
+width:200px;
+height: 200px;
+border-image: auto;
+}
+
+.container1{
+    width: 400px;
+    margin: auto;
+    height: 400px;
+    float: left;
+    }
+    .lock{
+        width:200px;
+        height:200px;
+        float:left;
+    }

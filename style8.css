@@ -1,0 +1,26 @@
+.boxs{
+    width: 500px;
+    height: 520px;
+    border:6px solid red;
+    padding: 50px;
+    box-sizing: border-box;
+    box-shadow : 2px 6px 2px blueviolet;
+}
+h1{
+    text-shadow: 3px 3px 10px yellowgreen;
+}
+.box1{
+    width: 200px;
+    height: 250px;
+    position:absolute;
+    margin: 20px;
+    border-radius: 4px solid red;
+    box-shadow: 2px 3px 6px rgb(69, 20, 133);
+    animation-name: example;
+    animation-duration: 5s;
+    animation: iteration count 3px;
+}
+@keyframes exmaple{
+    from{border-radius: 6%;}
+    to{border-radius: 50px;}
+}
